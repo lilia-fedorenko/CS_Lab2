@@ -1,0 +1,6 @@
+D:\Универ\3 курс\Комп Сиситемы\Лиля\2 лаба\lab2_3_b\lab2_3_b\bin\Debug\lab2_3_b.exe.config
+D:\Универ\3 курс\Комп Сиситемы\Лиля\2 лаба\lab2_3_b\lab2_3_b\bin\Debug\lab2_3_b.exe
+D:\Универ\3 курс\Комп Сиситемы\Лиля\2 лаба\lab2_3_b\lab2_3_b\bin\Debug\lab2_3_b.pdb
+D:\Универ\3 курс\Комп Сиситемы\Лиля\2 лаба\lab2_3_b\lab2_3_b\obj\Debug\lab2_3_b.csproj.CoreCompileInputs.cache
+D:\Универ\3 курс\Комп Сиситемы\Лиля\2 лаба\lab2_3_b\lab2_3_b\obj\Debug\lab2_3_b.exe
+D:\Универ\3 курс\Комп Сиситемы\Лиля\2 лаба\lab2_3_b\lab2_3_b\obj\Debug\lab2_3_b.pdb
